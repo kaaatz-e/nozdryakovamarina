@@ -19,8 +19,8 @@
 ### Some stats
 
 <div align="center">
-  <img height="200" src='https://github-readme-stats.vercel.app/api?username=NozdryakovaMarina&show_icons=true&theme=monokai&bg_color=00000000&line_height=40' align="left" />
-  <img height="200" src='https://github-readme-stats.vercel.app/api/top-langs/?username=NozdryakovaMarina&theme=monokai&bg_color=00000000'/> 
+  <img height="215" src='https://github-readme-stats.vercel.app/api?username=NozdryakovaMarina&show_icons=true&theme=monokai&bg_color=00000000&line_height=40' />
+  <img height="215" src='https://github-readme-stats.vercel.app/api/top-langs/?username=NozdryakovaMarina&theme=monokai&bg_color=00000000'/> 
 </div>
 
 <div align="center">
