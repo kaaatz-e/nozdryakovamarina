@@ -23,7 +23,7 @@
   <img height="200" src='https://github-readme-stats.vercel.app/api/top-langs/?username=NozdryakovaMarina&theme=monokai&bg_color=00000000'/> 
 </div>
 
-<div>
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=NozdryakovaMarina&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="230" alt="streak graph"  />
 </div>
 
