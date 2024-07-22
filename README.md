@@ -1,9 +1,10 @@
 <div align="center">
 <img img height="300" width="600" src="https://github.com/NozdryakovaMarina/nozdryakovamarina/blob/main/assets/header.gif" alt="Title image">
 </div>
+ 
+<h1 align="center">Hi👋🏻 My name is Marina!</h1>
 
-# Hi👋 My name is Marina!
-
+## About Me
 - 👨🏻‍💻 I'm getting a degree in technical sciences from SNRU named after S.P.Korolev 
 - 🌱 I’m currently learning JavaScript programming
 - 🤔 I’m looking for help with Algorithms and Data Structures
@@ -19,8 +20,8 @@
 ## Some stats
 
 <div align="center">
-  <img height="215" src='https://github-readme-stats.vercel.app/api?username=NozdryakovaMarina&show_icons=true&theme=monokai&bg_color=00000000&line_height=40' />
-  <img height="215" src='https://github-readme-stats.vercel.app/api/top-langs/?username=NozdryakovaMarina&theme=monokai&bg_color=00000000'/> 
+  <img height="215" src='https://github-readme-stats.vercel.app/api?username=NozdryakovaMarina&show_icons=true&theme=monokai&line_height=40' />
+  <img height="215" src='https://github-readme-stats.vercel.app/api/top-langs/?username=NozdryakovaMarina&theme=monokai'/> 
 </div>
 
 <div align="center">
