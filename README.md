@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" width="600" src="https://github.com/kaaatz-e/kaaatz-e/blob/main/assets/header.gif" alt="Animated coding header">
+  <img height="300" width="600" src="https://github.com/kaaatz-e/nozdryakovamarina/blob/main/assets/header.gif" alt="Animated coding header">
 </div>
 
 <br>
