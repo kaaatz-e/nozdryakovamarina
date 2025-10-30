@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" width="600" src="https://github.com/kaaatz-e/nozdryakovamarina/blob/main/assets/header.gif" alt="Animated coding header">
+  <img height="300" width="600" src="https://github.com/NozdryakovaMarina/nozdryakovamarina/blob/main/assets/header.gif" alt="Animated coding header">
 </div>
 
 <br>
@@ -47,11 +47,11 @@
 <div align="center">
   
   <div align="center"> 
-  <a href="https://github.com/kaaatz-e" align="left"><img height="215" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaaatz-e&langs_count=5&title_color=ef4444&text_color=facc15&bg_color=00000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> 
+  <a href="https://github.com/NozdryakovaMarina" align="left"><img height="215" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NozdryakovaMarina&langs_count=5&title_color=ef4444&text_color=facc15&bg_color=00000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> 
 </div>
 
   <div align="center"> 
-    <a href="http://www.github.com/kaaatz-e"><img height="230"src="https://github-readme-streak-stats.herokuapp.com/?user=kaaatz-e&stroke=facc15&background=00000000&ring=ef4444&fire=ef4444&currStreakNum=facc15&currStreakLabel=ef4444&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
+    <a href="http://www.github.com/NozdryakovaMarina"><img height="230"src="https://github-readme-streak-stats.herokuapp.com/?user=NozdryakovaMarina&stroke=facc15&background=00000000&ring=ef4444&fire=ef4444&currStreakNum=facc15&currStreakLabel=ef4444&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
 </div>
   
 ---
@@ -60,7 +60,7 @@
 
 <div align="center">
   
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaaatz-e)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NozdryakovaMarina)
   [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kaaaatze)
   
 </div>
